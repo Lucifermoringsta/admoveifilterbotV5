@@ -6,18 +6,19 @@ class Translation(object):
     
     START_TEXT = """<b>💝Hey {}!!</b>
 
-<b>I am a Pro AutoFilterBot V2....😈</b>
+<b>ഈ ബോട്ട് നിർമിച്ചിരിക്കുന്നത് തികച്ചും ⭕️AD MOVEIS HUNT⭕️ ഗ്രൂപ്പിലേക്ക് വേണ്ടിട്ടാണ്🤭</b>
 
-<b>Make me an admin for your group and channel then connect me....😈</b>
+<b>🤭എന്നെ നിങ്ങൾക്ക് വേറെ ഒരിടത്തും ഉപയോഗിക്കാൻ ആകില്ല..😂</b>
 
-<b>😈Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>അങ്ങനെ നിങൾ ഉപയോഗിക്കാൻ നോക്കിയാൽ Error❌ വരും അങ്ങനെ Error വരുമ്പോൾ നിങൾ വീണ്ടും Try ചെയ്യും അങ്ങനെ ചെയ്ത് ചെയ്ത്
+നിങ്ങളുടെ തല ചൂടാകും..😂</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>😂തല ചൂടായാൽ നിങൾ എന്തും ചെയ്യും അപ്പോ ജനം പറയും നിങ്ങൾക്ക് ഭ്രാന്ത് ആണെന്ന് ഭ്രാന്ത്😂</b>
 
-<b>Press /help to know about available commands💥</b>"""    
+<b>😈MY NAME IS LUCIFER MORINGSTAR I AM A DEVIL OF MY WORD😈</b>"""    
     
     HELP_TEXT = """
-<b>⭕️How To Use Me!⭕️?</b>
+<b>😈LUCIFER😈</b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -51,7 +52,7 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📒Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥💢Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥⭕️Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
 <b>➥ ⭕️Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
 
